@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MelissaGall
-- 👀 I’m interested in biology, genomics and data analysis
-- 🌱 I’m currently learning Python, R and bioinformatics in general
-- 💞️ I’m looking to collaborate on anything interesting related to Python and/or bioinformatics:)
+- 🌱 I’m a bio-informatician !
+- 👀 I’m interested in genomics, biology but also data analysis in general
 - 📫 How to reach me : melissa.galloux@gmail.com
 
 <!---
